@@ -89,6 +89,7 @@ fcn_8s_checkpoint_path = 'checkpoints/fcn_8s_checkpoint/model_fcn8s_final.ckpt'
 sys.path.append(MODELS)
 sys.path.append(CHECKPOINTS)
 
+# You don't need CUDA for this.
 os.environ["CUDA_VISIBLE_DEVICES"] = '1'
 
 slim = tf.contrib.slim
