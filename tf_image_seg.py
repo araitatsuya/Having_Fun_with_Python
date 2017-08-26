@@ -12,7 +12,7 @@
 #   Python 3.6.1 (Anaconda)
 #   tf.__version__ '1.2.0'
 
-#   You can segment objects in the following categories. 
+#   You can segment any objects in the following categories. 
 '''
 {0: 'background',
  1: 'aeroplane',
