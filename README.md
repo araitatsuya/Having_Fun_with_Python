@@ -3,5 +3,5 @@
 # faceRecog.py
 Face Detection using OpenCV
 
-#tf_image_seg.py
+# tf_image_seg.py
 Fully Convolutional Network for Semantic Segmentation
