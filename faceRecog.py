@@ -1,12 +1,13 @@
 #
-#   Face Recognition using Open CV and haarcascade
+#   Face Detection using Open CV and haarcascade
 #
 #                                   Tatsuya Arai 
 #
 #   Python 3.6.1
 #   cv2.__version__ '3.3.0'
 
-# References 
+# References
+# https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
 # https://stackoverflow.com/questions/30506126/open-cv-error-215-scn-3-scn-4-in-function-cvtcolor
 # http://qiita.com/mo4_9/items/fda37ac4f9ddab2d7f45
 
