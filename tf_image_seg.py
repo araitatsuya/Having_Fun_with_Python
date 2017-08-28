@@ -79,7 +79,6 @@ import numpy as np
 # You need to download models from tensorflow github. 
 # https://github.com/tensorflow/models
 MODELS = "models/slim"
-CHECKPOINTS = 'checkpoints'
 
 # You need to download fcn_8s.tar.gz from the following link.
 # https://www.dropbox.com/s/7r6lnilgt78ljia/fcn_8s.tar.gz?dl=0
@@ -87,7 +86,6 @@ CHECKPOINTS = 'checkpoints'
 fcn_8s_checkpoint_path = 'checkpoints/fcn_8s_checkpoint/model_fcn8s_final.ckpt'
 
 sys.path.append(MODELS)
-sys.path.append(CHECKPOINTS)
 
 # You don't need CUDA for this.
 os.environ["CUDA_VISIBLE_DEVICES"] = '1'
