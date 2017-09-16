@@ -11,3 +11,6 @@ Tensorflow Simgle Shot Multi Box Object Detection
 
 ## k_semantic_seg_u_net_train_test.py
 Keras Semantic Segmentation using U-net
+
+## k_fastai_1_6_char_RNN.py
+Keras LSTM (fast.ai Part 1 Lesson 6)
