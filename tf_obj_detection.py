@@ -172,3 +172,7 @@ with detection_graph.as_default():
       plt.imshow(image_np)
       plt.show()
 
+'''
+TODO openCV
+'''
+
