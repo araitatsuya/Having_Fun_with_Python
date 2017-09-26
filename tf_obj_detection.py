@@ -170,4 +170,5 @@ with detection_graph.as_default():
           line_thickness=8)
       plt.figure(figsize=IMAGE_SIZE)
       plt.imshow(image_np)
+      plt.show()
 
